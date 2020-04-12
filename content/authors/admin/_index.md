@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Technical Product Owner at Iotics
+role: Technical Product Owner at
 
 # Organizations/Affiliations
 organizations:
