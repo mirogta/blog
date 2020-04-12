@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Miroslav Sommer
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,40 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Technical Product Owner at Iotics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Iotics
+  url: "https://iotics.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have a Masters Degree (MSc) in Computer Science and Maths and 20 years of professional software development experience working with next-gen technology across multiple environments both inside software houses as well as working directly for clients.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Team Leadership
+- Strong influencing, building company-wide DevOps culture
+- Automation
+- Agile, Scrum Master
+- Software quality, TDD/BDD, continuous improvement with engineering best practices and methods
+- eCommerce, Service Oriented Architecture, SaaS, Full project life cycle
+- Design patterns and performance optimisation in C#, SQL, JavaScript, Go
+- Computer Graphics & Geometry (CAD/CAE software development)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Building DevOps Culture
+    institution: QA Ltd
+    year: 2018
+  - course: Essential AngularJS
+    institution: DevelopMentor (UK) Ltd.
+    year: 2014
+  - course: Certified ScrumMaster
+    institution: Scrum Alliance
+    year: 2011
+  - course: MSc. in Computer Science and Maths
+    institution: Palacky University
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +53,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/miroslavsommer/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/miroslavsommer
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mirogta
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,15 +72,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "miroslav.sommer@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Miroslav Sommer is a professional with a Masters Degree (MSc) in Computer Science and Maths and over 20 years of professional software development experience working with next-gen technology across multiple environments both inside software houses as well as working directly for clients.
